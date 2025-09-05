@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|d:\\lex files\\plv 3rdyr\\1er\\appdev\\lanoiram_6th\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|d:\\lex files\\plv 3rdyr\\1er\\appdev\\lanoiram_6th\\profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|solutionrelative:profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|d:\\lex files\\plv 3rdyr\\1er\\appdev\\lanoiram_6th\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|solutionrelative:dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|d:\\lex files\\plv 3rdyr\\1er\\appdev\\lanoiram_6th\\dtos\\studentreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|solutionrelative:dtos\\studentreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|d:\\lex files\\plv 3rdyr\\1er\\appdev\\lanoiram_6th\\models\\lanoiraschooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|solutionrelative:models\\lanoiraschooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|d:\\lex files\\plv 3rdyr\\1er\\appdev\\lanoiram_6th\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|d:\\lex files\\plv 3rdyr\\1er\\appdev\\lanoiram_6th\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|d:\\lex files\\plv 3rdyr\\1er\\appdev\\lanoiram_6th\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|d:\\lex files\\plv 3rdyr\\1er\\appdev\\lanoiram_6th\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C8A833-173B-4F48-ADEA-08E14BF88504}|LanoiraM_6th.csproj|solutionrelative:dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:51:29.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Dtos\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\StudentUpdateDto.cs",
+              "ToolTip": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Dtos\\StudentUpdateDto.cs",
+              "RelativeToolTip": "Dtos\\StudentUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:48:04.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Dtos\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\StudentCreateDto.cs",
+              "ToolTip": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Dtos\\StudentCreateDto.cs",
+              "RelativeToolTip": "Dtos\\StudentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:45:25.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentReadDto.cs",
+              "DocumentMoniker": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Dtos\\StudentReadDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\StudentReadDto.cs",
+              "ToolTip": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Dtos\\StudentReadDto.cs",
+              "RelativeToolTip": "Dtos\\StudentReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:44:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Profiles\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\StudentProfile.cs",
+              "ToolTip": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Profiles\\StudentProfile.cs",
+              "RelativeToolTip": "Profiles\\StudentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:41:40.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:30:47.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:29:41.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LanoiraSchoolDbContext.cs",
+              "DocumentMoniker": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Models\\LanoiraSchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\LanoiraSchoolDbContext.cs",
+              "ToolTip": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\Models\\LanoiraSchoolDbContext.cs",
+              "RelativeToolTip": "Models\\LanoiraSchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:29:35.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\LEX FILES\\plv 3rdyr\\1er\\appdev\\LanoiraM_6th\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T19:28:27.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
